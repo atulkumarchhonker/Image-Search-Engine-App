@@ -12,6 +12,15 @@ body {
     margin-top: 40px;
     margin-bottom: 60px;
   }
+
+h2 {
+    font-size: 36px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 60px;
+    color: #c9c613;
+  }
   
   form {
     display: flex;
